@@ -1,6 +1,6 @@
 [![deploy](https://github.com/tasmota/docs/actions/workflows/main.yml/badge.svg)](https://github.com/tasmota/docs/actions/workflows/main.yml)
 
-# Tasmota Documentation
+# TTtemplate Documentation
 This is the repo for documentation of the Tasmota open source alternative firmware for ESP8266 available from https://github.com/arendst/Tasmota 
 
 The build documentation can be found here: https://tasmota.github.io/docs/
